@@ -1,0 +1,55 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport"
+          content="width=device-width, user-scalable=no, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <style>
+           .display
+           {
+                        border-radius: 25px;
+                        background: #73AD21;
+                        padding: 20px;
+                        width: 200px;
+                        font-family: "Comic Sans MS", cursive, sans-serif;
+           }
+           .Anchor
+           {
+                                    border-radius: 25px;
+                                    background: #73AD21;
+                                    padding: 20px;
+                                    width: 200px;
+                                    height: 20px;
+                                    margin : 50px;
+                                    text-decoration : none;
+                                    font-family: "Comic Sans MS", cursive, sans-serif;
+
+           }
+
+    </style>
+
+    <title>Document</title>
+</head>
+<body>
+    <h1 style = 'color:green'>Greet me</h1>
+
+    <form action="/hello" method="post" >
+        <input type="text" name="username">
+                <input type = "radio" id = "Xhosa" value = "Xhosa">
+
+        <input type="submit" >
+
+    </form>
+
+    <div class = "display">
+
+             <center style = "color:green"> {{greeting}} </center>
+    </div>
+     <a href = '/greeted' class = "Anchor" style = "color : green "> Display All </a>
+
+
+
+</body>
+</html>
