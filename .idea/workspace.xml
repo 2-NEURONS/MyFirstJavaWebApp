@@ -11,7 +11,6 @@
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/net/myfirst/webapp/HelloWorld.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/myfirst/webapp/HelloWorld.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/net/myfirst/webapp/SetUpRoutes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/net/myfirst/webapp/SetUpRoutes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/MyFirstJavaWebApp-1.0-SNAPSHOT.jar" beforeDir="false" afterPath="$PROJECT_DIR$/target/MyFirstJavaWebApp-1.0-SNAPSHOT.jar" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />

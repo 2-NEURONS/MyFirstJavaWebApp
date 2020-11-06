@@ -47,7 +47,7 @@
                 <version>2.0.13</version>
                 <configuration>
                     <processTypes>
-                        <web>java $JAVA_OPTS -cp target/classes:target/dependency/* net.myfirst.webapp.Hello</web>
+                        <web>java $JAVA_OPTS -cp target/classes:target/dependency/* net.myfirst.webapp.HelloWorld</web>
                     </processTypes>
                 </configuration>
             </plugin>
